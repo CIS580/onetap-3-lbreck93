@@ -3,7 +3,7 @@
 /**
  * @module exports the Snake class
  */
-module.exports = exports = Snake;
+module.exports = Snake;
 
 /**
  * @constructor Snake
